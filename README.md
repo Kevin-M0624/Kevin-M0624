@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Kevin!
-- 
 - 👀 I’m interested in ...
-- Gaming 🎮
-- Tech 💻
-- Traveling 🧳
+-   Gaming 🎮
+-   Tech 💻
+-   Traveling 🧳
 - 
-- 🌱 I’m currently learning ... HTML, CSS, & JavaScript
+- 🌱 I’m currently learning ... 
+  HTML, CSS, & JavaScript
 - 
 - 💞️ I’m looking to collaborate on ... As many projects as I can!!
 - 📫 How to reach me ...
